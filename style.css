@@ -1,0 +1,51 @@
+.intelligent-body{
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 0%;
+	margin-bottom: 5%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-family: sans-serif;
+	font-size: 16px;
+	color: green;
+	background-color: black; 
+	border-radius: 1%;
+}
+.colors{
+	color: orange;
+	font-size: 22px;
+}
+.para{
+	color: white;
+}
+h3{
+	color: fuchsia;
+}
+
+li{
+	text-align: center;
+	text-decoration: none;
+	font-size: 26px;
+	font-family: Lobster;
+}
+tr{
+	font-size: 16px;
+}
+.center{
+	font-family: Lobster, monospace;
+	color: blue;
+	font-size: 22px;
+	background-color: black;
+}
+.separator{
+	margin-top: 5%;
+}
+.contact-para{
+	margin-bottom: 5%;
+}
+ a,
+  a:visited {
+    text-decoration: underline;
+  }
